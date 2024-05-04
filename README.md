@@ -4,8 +4,6 @@
 
 I'm middle backend developer. Start working in 2021. I have a large number of solved business problems behind me. Always ready to learn and try new things
 
-## <y Stack
-
 ### Languages and Tools 
 
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
@@ -18,4 +16,17 @@ I'm middle backend developer. Start working in 2021. I have a large number of so
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
+<img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
+
+## My other Stack
+- Filament
+- Backpack
+- RESTful API
+- Docker
+- Redmine
+- SCSS/SASS
+- Gulp
+- Pug
+- Webpack
+- Docker
