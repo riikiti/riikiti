@@ -14,4 +14,4 @@ I'm middle backend developer. Start working in 2021. I have a large number of so
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
-<img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://logowik.com/content/uploads/images/filament-laravel4896.logowik.com.webp">
+<img align='left' alt="php" width='30px' style='padding-right:10px;' src="https://logowik.com/content/uploads/images/filament-laravel4896.logowik.com.webp">
