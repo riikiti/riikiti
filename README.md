@@ -20,6 +20,8 @@ I'm middle backend developer. Start working in 2021. I have a large number of so
 <img align='left' alt="php" width='50px' style='padding-right:20px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
 
 -
+<b>And other technologies </b>
+-
 and other technologies
 - Filament
 - Backpack
