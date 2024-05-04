@@ -21,8 +21,6 @@ I'm middle backend developer. Start working in 2021. I have a large number of so
 
 -
 <b>And other technologies </b>
--
-and other technologies
 - Filament
 - Backpack
 - RESTful API
