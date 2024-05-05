@@ -3,8 +3,8 @@
 **`Backend developer (Laravel/PHP)`**
 
 I'm middle backend developer. Start working in 2021. I have a large number of solved business problems behind me. Always ready to learn and try new things
-Email: ruslan.igorevich@gmail.com
-Telegram: t.me/Kar9lga
+- Email: ruslan.igorevich@gmail.com
+- <a href ='t.me/Kar9lga'>Telegram</a> 
 
 ## Languages and Tools 
 
