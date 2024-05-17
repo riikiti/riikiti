@@ -1,4 +1,4 @@
-## Hi body 👋
+## Hi buddy 👋
 
 **`Backend developer (Laravel/PHP)`**
 
