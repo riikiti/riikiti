@@ -24,7 +24,7 @@ I'm middle backend developer. Start working in 2021. I have a large number of so
 ## 📊 My Stats
 <div align="center">
 <a href="https://github.com/riikiti?tab=repositories">
-  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0nkers&theme=dark" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=riikiti&theme=dark" />
 </a>
 </div>
 
