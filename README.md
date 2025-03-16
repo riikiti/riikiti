@@ -1,13 +1,28 @@
 ## Hi buddy 👋  
 
-## 🙋‍♂️ About Me  
-**Backend developer (Laravel/PHP)**  
+### 🙋‍♂️ About Me  
+**Backend Developer (Laravel/PHP)**  
 
-I'm a middle backend developer. Started working in 2021. I have solved a large number of business problems. Always ready to learn and try new things.  
+I'm a **middle backend developer** specializing in building scalable and efficient web applications.  
+Started working in **2021**, and since then, I have tackled numerous business challenges with well-architected solutions.  
+Always eager to **learn, explore new technologies, and optimize performance**.  
 
-- 💬 Telegram - [@Kar9lga](https://t.me/Kar9lga)  
+💬 Telegram - [@Kar9lga](https://t.me/Kar9lga)  
 
-## 🚀 Languages and Tools  
+---
+
+## 🚀 What I Do  
+
+- **Backend Development:** Laravel, PHP, REST APIs
+- **Databases:** PostgreSQL, MySQL, Redis  
+- **DevOps & Infrastructure:** Docker, Nginx, Linux, CI/CD  
+- **Message Brokers:** RabbitMQ, Redis  
+- **Frontend (for integrations):** Vue.js, JavaScript, liveware, alpine.js
+- **Code Quality & Documentation:** Git, Swagger  
+
+---
+
+## 🛠️ Languages and Tools  
 
 <p align="left">
   <img alt="PHP" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
@@ -22,15 +37,33 @@ I'm a middle backend developer. Started working in 2021. I have solved a large n
   <img alt="Redis" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
   <img alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
   <img alt="Swagger" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
+  <img alt="Docker" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </p>  
+
+---
 
 ## 📊 My Stats  
 
 <div align="center">
   <a href="https://github.com/riikiti?tab=repositories">
-    <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=riikiti&theme=dark"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=riikiti&show_icons=true&theme=dark"/>
+  </a>
+  <a href="https://github.com/riikiti">
+    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=riikiti&theme=dark"/>
   </a>
   <a href="https://leetcode.com/riikiti">
-  <img height=300 src="https://leetcard.jacoblin.cool/riikiti?ext=heatmap" />
-</a>
+    <img height=180 src="https://leetcard.jacoblin.cool/riikiti?ext=heatmap" />
+  </a>
 </div>
+
+---
+
+## 📬 How to Reach Me  
+
+- **📧 Email:** [ruslan.igorevich@gmail.com](mailto:ruslan.igorevich@gmail.com)  
+- **💼 LinkedIn:** [linkedin.com/in/riikiti](https://linkedin.com/in/riikiti)  
+- **💬 Telegram:** [@Kar9lga](https://t.me/Kar9lga)  
+
+---
+
+### 🚀 Let's build something amazing together! 🚀  
