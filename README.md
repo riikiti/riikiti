@@ -30,4 +30,7 @@ I'm a middle backend developer. Started working in 2021. I have solved a large n
   <a href="https://github.com/riikiti?tab=repositories">
     <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=riikiti&theme=dark"/>
   </a>
+  <a href="https://leetcode.com/riikiti">
+  <img height=300 src="https://leetcard.jacoblin.cool/riikiti?ext=heatmap" />
+</a>
 </div>
