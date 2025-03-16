@@ -14,9 +14,10 @@ Always eager to **learn, explore new technologies, and optimize performance**.
 ## 🚀 What I Do  
 
 - **Backend Development:** Laravel, PHP, REST APIs
-- **Databases:** PostgreSQL, MySQL, Redis  
+- **Databases:** PostgreSQL, MySQL
 - **DevOps & Infrastructure:** Docker, Nginx, Linux, CI/CD  
-- **Message Brokers:** RabbitMQ, Redis  
+- **Message Brokers:** RabbitMQ
+- **Cache:** Redis  
 - **Frontend (for integrations):** Vue.js, JavaScript, liveware, alpine.js
 - **Code Quality & Documentation:** Git, Swagger  
 
@@ -38,6 +39,9 @@ Always eager to **learn, explore new technologies, and optimize performance**.
   <img alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
   <img alt="Swagger" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
   <img alt="Docker" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="ElasticSearch" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg"/>
+  <img alt="Docker" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"/>
+            
 </p>  
 
 ---
