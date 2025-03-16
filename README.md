@@ -45,14 +45,14 @@ Always eager to **learn, explore new technologies, and optimize performance**.
 ## 📊 My Stats  
 
 <div align="center">
-  <a href="https://github.com/riikiti?tab=repositories">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=riikiti&show_icons=true&theme=dark"/>
-  </a>
   <a href="https://github.com/riikiti">
-    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=riikiti&theme=dark"/>
+    <img height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=riikiti&theme=dark"/>
   </a>
+  <a href="https://github.com/riikiti?tab=repositories">
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=riikiti&theme=dark" />
+</a>
   <a href="https://leetcode.com/riikiti">
-    <img height=180 src="https://leetcard.jacoblin.cool/riikiti?ext=heatmap" />
+    <img height=300 src="https://leetcard.jacoblin.cool/riikiti?ext=heatmap" />
   </a>
 </div>
 
