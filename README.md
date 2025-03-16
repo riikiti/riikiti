@@ -23,11 +23,8 @@ I'm middle backend developer. Start working in 2021. I have a large number of so
 
 ## 📊 My Stats
 <div align="center">
-<a href="https://github.com/y0nkers?tab=repositories">
+<a href="https://github.com/riikiti?tab=repositories">
   <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0nkers&theme=dark" />
-</a>
-<a href="https://leetcode.com/y0nkers">
-  <img height=300 src="https://leetcard.jacoblin.cool/y0nkers?ext=heatmap" />
 </a>
 </div>
 
