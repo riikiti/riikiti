@@ -5,7 +5,6 @@
 
 I'm a middle backend developer. Started working in 2021. I have solved a large number of business problems. Always ready to learn and try new things.  
 
-- 📧 Email - ruslan.igorevich@gmail.com  
 - 💬 Telegram - [@Kar9lga](https://t.me/Kar9lga)  
 
 ## 🚀 Languages and Tools  
