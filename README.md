@@ -60,14 +60,4 @@ Always eager to **learn, explore new technologies, and optimize performance**.
   </a>
 </div>
 
----
-
-## 📬 How to Reach Me  
-
-- **📧 Email:** [ruslan.igorevich@gmail.com](mailto:ruslan.igorevich@gmail.com)  
-- **💼 LinkedIn:** [linkedin.com/in/riikiti](https://linkedin.com/in/riikiti)  
-- **💬 Telegram:** [@Kar9lga](https://t.me/Kar9lga)  
-
----
-
 ### 🚀 Let's build something amazing together! 🚀  
