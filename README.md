@@ -7,7 +7,8 @@ I'm a **middle backend developer** specializing in building scalable and efficie
 Started working in **2021**, and since then, I have tackled numerous business challenges with well-architected solutions.  
 Always eager to **learn, explore new technologies, and optimize performance**.  
 
-💬 Telegram - [@Kar9lga](https://t.me/Kar9lga)  
+💬 Telegram - [@Kar9lga](https://t.me/Kar9lga) 
+LinkedIn - [riikiti](https://www.linkedin.com/in/riikiti/)
 
 ---
 
